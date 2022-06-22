@@ -10,7 +10,7 @@ Here is my c++ source code for SANDM IDE-Emulator - program, designed for SANDM 
 
 Below is the demo by running the program SANDM IDE-Emulator:
 <p align="center">
-  <img src="demo/SANDM.gif" width=704><br/>
+  <img src="demo/SANDM.gif"><br/>
   <i>SANDM IDE-Emulator program demo</i>
 </p>
 
