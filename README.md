@@ -1,1 +1,1 @@
-# SANDM-IDE-emulator
+# SANDM IDE Emulator
