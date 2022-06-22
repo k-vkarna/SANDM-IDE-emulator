@@ -18,3 +18,10 @@ Below is the demo by running the program SANDM IDE-Emulator:
 
 All the Windows systems still supported by Microsoft are supported by SANDM IDE-Emulator.
 
+## Download
+
+[github-download]: https://github.com/k-vkarna/SANDM-IDE-emulator/releases
+
+For simplicity, prebuilt archive with all the dependencies is available for Windows:
+
+- [`SANDM IDE-emulator`][github-download]
